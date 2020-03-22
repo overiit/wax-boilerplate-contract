@@ -1,4 +1,5 @@
 --- demopro Project ---
+- replace `demopro` with your contract name
 
  - How to Build -
    - cd to 'build' directory
